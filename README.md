@@ -25,8 +25,3 @@ A gestão dos casos de teste, bugs e tarefas é realizada utilizando o Jira, pro
 
 
 
-1. Acesse os cenários de teste para validar manualmente as funcionalidades descritas.  
-2. Registre os resultados e eventuais bugs diretamente no Jira.  
-3. Utilize os cenários BDD para auxiliar na comunicação entre as equipes.
-
-
